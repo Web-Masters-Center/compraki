@@ -18,7 +18,8 @@
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5 e CSS3
-- JavaScript
+- JavaScrip
+- Bootstrap 5
 - LocalStorage (para persistência local)
 
 ---
